@@ -3,6 +3,7 @@ A "sturdy-esque" layout derived from "RL-EAI", built around the ergonomic princi
 
 ![image](https://github.com/user-attachments/assets/6dd6244b-81b4-40c1-9646-025dd7258226)
 
+```
                          Left:      Right:     Total:
 Column:
         Index            14.751%    10.504%    25.254%
@@ -84,3 +85,4 @@ Trigram:
         Outward           0.033%     1.957%     1.991%
         Upward            0.008%     0.426%     0.433%
         Downward          0.005%     0.767%     0.772%
+```
