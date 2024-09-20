@@ -1,8 +1,10 @@
-# really-layout
+# REALLY
 A "sturdy-esque" layout derived from "RL-EAI", built around the ergonomic principals of Layout design.
 
 ![image](https://github.com/user-attachments/assets/6dd6244b-81b4-40c1-9646-025dd7258226)
 
+## Stats:
+---
 ```
                          Left:      Right:     Total:
 Column:
